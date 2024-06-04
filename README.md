@@ -7,12 +7,8 @@
 명패라는 사무 도구를 스마트 기기로 고도화시켜, 더 편리한 사무 환경을 제공합니다. 관리자는 직관적으로 근태, 좌석 배치 현황을 관리하고 시설 및 예약 테이블을 손쉽게 만들 수 있고, 교육생은 JIRA, MataMattermostmost, GitLab, 공용 그림 보드, 시설 및 회의실 예약 등 업무에 연관된 부가적인 일들을 한곳에서 해결하여 업무의 효율을 높일 수 있습니다.
 <br/>
 
-### 소개 영상.<br/>
-- YouTube 링크
-<br/>
-
 # :date: 프로젝트 진행 기간
-| 프로젝트 기간 | 2024.04.08 ~ 2024.05.17 (6주) |
+| 프로젝트 기간 | 2024.04.08 ~ 2024.05.17  (6주) |
 | --- | --- |
 
 
@@ -108,18 +104,18 @@
 
 # :clipboard: 기술 소개
   - NFC 센서 : 기기 고유 넘버와 카드의 고유 UID를 이용해 로그인
-  ![image info](docs/images/NFC기술설명.png){: width="600" height="400"}
+  ![image info](docs/images/NFC기술설명.png)
 
   - 비콘 : 비콘을 이용해 RSSI값을 받아와 위치 특정
-  ![image info](docs/images/비콘 기술성명.png){: width="600" height="400"}
+  ![image info](docs/images/비콘 기술성명.png)
 
   - 웹소켓 : 웹소켓을 이용해 실시간 통신으로 이음보드 구현
-  ![image info](docs/images/웹소켓 기술설명.png){: width="600" height="400"}
+  ![image info](docs/images/웹소켓 기술설명.png)
 
   - 리액티브 & 웹플럭스 : 비동기 및 논블로킹 I/O를 사용하여 요청을 처리 하여 서버 자원을 효율적으로 사용하고 높은 동시성을 유지
-  ![image info](docs/images/리엑티브웹플럭스 기술설명.png){: width="600" height="400"}
+  ![image info](docs/images/리엑티브웹플럭스 기술설명.png)
 
   - SSE : 실시간 페이지 갱신 및, 알람기능 구현
-  ![image info](docs/images/SSE기술 설명.png){: width="600" height="400"}
+  ![image info](docs/images/SSE기술 설명.png)
 
 <br/>
