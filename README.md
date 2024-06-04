@@ -26,7 +26,7 @@
 <br/>
 
 # :exclamation: 기획 의도
-### 이 프로젝트를 시작한 이유.<br/>
+### 이 프로젝트를 시작한 이유
   이 프로젝트는 교육장 내에서 교육생과 관리자 분들이 겪는 다양한 불편함을 해결하기 위해 시작되었습니다.
   - 교육생의 불편함:
     - 교육생들은 너무 많은 알림이 많아요!
@@ -45,8 +45,7 @@
 
 # :speech_balloon: 서비스 기능 소개
 ## 교육생 기능
-### 1️⃣ 알림 모아스.
-<br/>
+### 1️⃣ 알림 모아스
 
   - EDU SSAFY 일정(교육 일정) 알림 및 확인
   ![image info](docs/images/3._싸피_일정_확인.gif)
@@ -55,20 +54,19 @@
   ![image info](docs/images/2.MM알림확인.gif)
 
   - MM, 기기 로그인 모바일 알림
-  ![image info](docs/images/모바일알림페이지.png){: width="200" height="400"}
+  ![image info](docs/images/모바일알림페이지.png)
   
   - 원하는 GitLab 확인
   ![image info](docs/images/모바일GitLab_확인.gif)
 <br/>
 
-### 2️⃣ 업무 관리.<br/>
+### 2️⃣ 업무 관리
   - Jira(스케줄) 관리
   ![image info](docs/images/1.지라_옮기기.gif)
 <br/>
 
-### 3️⃣ 이음 보드.<br/>
+### 3️⃣ 이음 보드
   - 동시 편집 화이트 보드
-  <br/>
   ![image info](docs/images/이음보드기기시연.gif)
   ![image info](docs/images/4.이음보드_그리기.gif)
   ![image info](docs/images/5.이음보드_저장하기.gif)
@@ -76,28 +74,28 @@
 
 <br/>
 
-### 4️⃣ 예약 보드 현황 및 예약.<br/>
+### 4️⃣ 예약 보드 현황 및 예약
   - 예역 현황 체크 및 예약 기능
   ![image info](docs/images/모바일예약_하기.gif)
 <br/>
 
 ## 관리자 기능 
-### 1️⃣ 실시간 좌석도 및 현황.<br/>
+### 1️⃣ 실시간 좌석도 및 현황
   ![image info](docs/images/좌석도확인.gif)
 <br/>
 
-### 2️⃣ 교육생 착석 유무 확인.<br/>
+### 2️⃣ 교육생 착석 유무 확인
   ![image info](docs/images/자리비움시연.gif)
   ![image info](docs/images/비착.gif)
 <br/>
 
-### 3️⃣ 호출.<br/>
+### 3️⃣ 호출
   - 교육생 호출
   ![image info](docs/images/호출시연.gif)
   ![image info](docs/images/호출.gif)
 <br/>
 
-### 4️⃣ 예약 보드 현황 및 생성.<br/>
+### 4️⃣ 예약 보드 현황 및 생성
   - 예약 보드 현황
   ![image info](docs/images/예약_생성.gif)
 <br/>
