@@ -48,50 +48,65 @@
 ### 1️⃣ 알림 모아스
 
   - EDU SSAFY 일정(교육 일정) 알림 및 확인
+
   ![image info](docs/images/3._싸피_일정_확인.gif)
 
   - MM, GItLab(공지, 코드 리뷰) 알림
+
   ![image info](docs/images/2.MM알림확인.gif)
 
   - MM, 기기 로그인 모바일 알림
+
   ![image info](docs/images/모바일알림페이지.png)
   
   - 원하는 GitLab 확인
+
   ![image info](docs/images/모바일GitLab_확인.gif)
 <br/>
 
 ### 2️⃣ 업무 관리
   - Jira(스케줄) 관리
+
   ![image info](docs/images/1.지라_옮기기.gif)
 <br/>
 
 ### 3️⃣ 이음 보드
   - 동시 편집 화이트 보드
+
   ![image info](docs/images/이음보드기기시연.gif)
+
   ![image info](docs/images/4.이음보드_그리기.gif)
+
   ![image info](docs/images/5.이음보드_저장하기.gif)
+
   ![image info](docs/images/이음보드_삭제및다운.gif)
 
 <br/>
 
 ### 4️⃣ 예약 보드 현황 및 예약
   - 예역 현황 체크 및 예약 기능
+
   ![image info](docs/images/모바일예약_하기.gif)
 <br/>
 
 ## 관리자 기능 
 ### 1️⃣ 실시간 좌석도 및 현황
+
   ![image info](docs/images/좌석도확인.gif)
 <br/>
 
 ### 2️⃣ 교육생 착석 유무 확인
+
   ![image info](docs/images/자리비움시연.gif)
+  
   ![image info](docs/images/비착.gif)
 <br/>
 
 ### 3️⃣ 호출
   - 교육생 호출
+
   ![image info](docs/images/호출시연.gif)
+
   ![image info](docs/images/호출.gif)
 <br/>
 
@@ -102,18 +117,23 @@
 
 # :clipboard: 기술 소개
   - NFC 센서 : 기기 고유 넘버와 카드의 고유 UID를 이용해 로그인
+
   ![image info](docs/images/NFC기술설명.png)
 
   - 비콘 : 비콘을 이용해 RSSI값을 받아와 위치 특정
+
   ![image info](docs/images/비콘기술성명.png)
 
   - 웹소켓 : 웹소켓을 이용해 실시간 통신으로 이음보드 구현
+
   ![image info](docs/images/웹소켓기술설명.png)
 
   - 리액티브 & 웹플럭스 : 비동기 및 논블로킹 I/O를 사용하여 요청을 처리 하여 서버 자원을 효율적으로 사용하고 높은 동시성을 유지
+
   ![image info](docs/images/리엑티브웹플럭스기술설명.png)
 
   - SSE : 실시간 페이지 갱신 및, 알람기능 구현
+
   ![image info](docs/images/SSE기술설명.png)
 
 <br/>
